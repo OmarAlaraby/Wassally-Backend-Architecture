@@ -10,3 +10,13 @@ This project is a **multi-platform ecosystem** consisting of **three mobile apps
 - **Staff Dashboard**: Provides staff members with tools to manage orders, track delivery crews, and register new shops or delivery personnel.  
 
 The system is built to ensure seamless coordination between users, shop owners, delivery crews, and staff, enhancing the overall e-commerce experience.
+
+## Technologies
+
+### Backend
+- **Framework**: Django REST Framework (DRF)  
+- **Database**: PostgreSQL  
+
+### Frontend
+- **Mobile Apps**: Flutter  
+- **Web Dashboard**: React.js  
