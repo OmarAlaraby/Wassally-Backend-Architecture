@@ -71,6 +71,17 @@ The system is built to ensure seamless coordination between users, shop owners, 
 ---
 
 ## Database
+### Overview
+The project uses **PostgreSQL** as the primary database to store and manage data for users, shops, products, orders, and delivery crews. The database is designed to ensure **scalability**, **data integrity**, and **efficient querying**.
 
-### Users
-![user tabels image](/home/omar-alaraby/Pictures/Screenshots/)
+### Key Tables
+1. **Users Table**: Stores user information (e.g., name, email, password, ..etc).
+      ![users tables](./images/users_tables.png)
+2. **Shops Table**: Contains details about shops, including shop name, owner information, and product listings.
+      ![users tables](path)
+3. **Products Table**: Stores product details (e.g., name, price, category) and links them to specific shops.
+      ![users tables](path)
+4. **Orders Table**: Tracks orders placed by users, including order status (e.g., pending, delivered) and delivery crew assignments.
+      ![users tables](path) 
+
+Integrated with **Supabase**, a PostgreSQL-based DB hosting service, for seamless database management, scalability, and real-time capabilities.  
