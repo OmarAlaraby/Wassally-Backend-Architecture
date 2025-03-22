@@ -66,4 +66,11 @@ The system is built to ensure seamless coordination between users, shop owners, 
    - The staff member registers new shops and delivery crews into the system.  
 
 3. **Tracking Delivery Crews**:  
-   - The staff member tracks the status of delivery crews and resolves any issues that arise during delivery.  
+   - The staff member tracks the status of delivery crews and resolves any issues that arise during delivery.
+
+---
+
+## Database
+
+### Users
+![user tabels image](/home/omar-alaraby/Pictures/Screenshots/)
