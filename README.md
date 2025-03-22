@@ -23,6 +23,8 @@ The system is built to ensure seamless coordination between users, shop owners, 
 - **Mobile Apps**: Flutter  
 - **Web Dashboard**: React.js  
 
+---
+
 ## Scenarios
 
 ### User App
