@@ -76,14 +76,18 @@ The project uses **PostgreSQL** as the primary database to store and manage data
 
 ### Key Tables
 1. **Users Table**: Stores user information (e.g., name, email, password, ..etc).
-      <img src="./images/users_tables.png" alt="Alt Text" width="500" height="300">
+      <img src="./images/users_tables.png" alt="users_tables" width="500" height="300">
 
       
 3. **Shops Table**: Contains details about shops, including shop name, owner information, and product listings.
-      <img src="./images/shops_tables.png" alt="Alt Text" width="500" height="300">
+      <img src="./images/shops_tables.png" alt="shops_tables" width="500" height="300">
+
+      
 4. **Products Table**: Stores product details (e.g., name, price, category) and links them to specific shops.
-      ![users tables](path)
-5. **Orders Table**: Tracks orders placed by users, including order status (e.g., pending, delivered) and delivery crew assignments.
-      ![users tables](path) 
+      <img src="./images/products_tables.png" alt="products_tables" width="500" height="300">
+
+   
+6. **Orders Table**: Tracks orders placed by users, including order status (e.g., pending, delivered) and delivery crew assignments.
+      <img src="./images/orders_tables.png" alt="orders_tables" width="500" height="300">
 
 Integrated with **Supabase**, a PostgreSQL-based DB hosting service, for seamless database management, scalability, and real-time capabilities.  
