@@ -88,6 +88,7 @@ The project uses **PostgreSQL** as the primary database to store and manage data
 
    
 6. **Orders Table**: Tracks orders placed by users, including order status (e.g., pending, delivered) and delivery crew assignments.
+
       <img src="./images/orders_tables.png" alt="orders_tables" width="500" height="300">
 
 Integrated with **Supabase**, a PostgreSQL-based DB hosting service, for seamless database management, scalability, and real-time capabilities.  
