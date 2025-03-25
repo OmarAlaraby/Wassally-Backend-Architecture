@@ -77,6 +77,8 @@ The project uses **PostgreSQL** as the primary database to store and manage data
 ### Key Tables
 1. **Users Table**: Stores user information (e.g., name, email, password, ..etc).
       <img src="./images/users_tables.png" alt="Alt Text" width="500" height="300">
+
+      
 3. **Shops Table**: Contains details about shops, including shop name, owner information, and product listings.
       <img src="./images/shops_tables.png" alt="Alt Text" width="500" height="300">
 4. **Products Table**: Stores product details (e.g., name, price, category) and links them to specific shops.
