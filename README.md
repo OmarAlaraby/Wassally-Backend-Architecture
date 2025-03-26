@@ -12,6 +12,11 @@ This project is a **multi-platform ecosystem** consisting of **three mobile apps
 The system is built to ensure seamless coordination between users, shop owners, delivery crews, and staff, enhancing the overall e-commerce experience.
 
 ---
+## Documentations
+
+public Doc : https://wassally.onrender.com/api/docs/public/
+
+---
 
 ## Technologies
 
