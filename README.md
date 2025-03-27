@@ -14,7 +14,7 @@ The system is built to ensure seamless coordination between users, shop owners, 
 ---
 ## Documentations
 
-public Doc : https://wassally.onrender.com/api/docs/public/
+Public Doc : https://wassally.onrender.com/api/docs/public/
 
 ---
 
